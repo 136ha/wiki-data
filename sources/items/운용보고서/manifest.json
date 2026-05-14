@@ -7,5 +7,24 @@
   ],
   "derivedText": "derived/text.md",
   "outline": "derived/outline.json",
-  "assets": []
+  "assets": [
+    "derived/assets/page-001.png",
+    "derived/assets/page-002.png",
+    "derived/assets/page-003.png",
+    "derived/assets/page-004.png",
+    "derived/assets/page-005.png",
+    "derived/assets/page-006.png",
+    "derived/assets/page-007.png",
+    "derived/assets/page-008.png",
+    "derived/assets/page-009.png",
+    "derived/assets/page-010.png",
+    "derived/assets/page-011.png",
+    "derived/assets/page-012.png",
+    "derived/assets/page-013.png",
+    "derived/assets/page-014.png",
+    "derived/assets/page-015.png",
+    "derived/assets/page-016.png",
+    "derived/assets/page-017.png",
+    "derived/assets/page-018.png"
+  ]
 }
