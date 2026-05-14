@@ -5,7 +5,7 @@
   "rawFiles": [
     "raw/운용보고서.pdf"
   ],
-  "derivedText": "derived/text.md",
+  "derivedText": "derived/source.md",
   "outline": "derived/outline.json",
   "assets": [
     "derived/assets/page-001.png",
