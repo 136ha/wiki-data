@@ -1,0 +1,11 @@
+{
+  "sourceId": "운용보고서",
+  "kind": "pdf",
+  "originalFilename": "운용보고서.pdf",
+  "rawFiles": [
+    "raw/운용보고서.pdf"
+  ],
+  "derivedText": "derived/text.md",
+  "outline": "derived/outline.json",
+  "assets": []
+}
