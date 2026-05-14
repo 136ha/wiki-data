@@ -1,0 +1,11 @@
+{
+  "sourceId": "benefits-note",
+  "kind": "text",
+  "originalFilename": "benefits-note.txt",
+  "rawFiles": [
+    "raw/benefits-note.txt"
+  ],
+  "derivedText": "derived/text.md",
+  "outline": "derived/outline.json",
+  "assets": []
+}

@@ -1,0 +1,5 @@
+# benefits-note
+
+Benefits note
+
+Parents may qualify when the current policy allows dependent support.

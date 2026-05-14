@@ -1,0 +1,11 @@
+{
+  "sourceId": "sample-policy",
+  "kind": "markdown",
+  "originalFilename": "sample-policy.md",
+  "rawFiles": [
+    "raw/sample-policy.md"
+  ],
+  "derivedText": "derived/text.md",
+  "outline": "derived/outline.json",
+  "assets": []
+}
